@@ -97,3 +97,32 @@ REPORT
 ## Acknowledgement
 
 The Toy Robot Challenge was originally formulated by [Jon Eaves](https://twitter.com/joneaves)
+
+## Solution
+
+### Run application
+
+```bash
+./bin/robot_simulator
+```
+
+## Testing
+
+### Install dependencies 
+
+```bash
+gem install bundler
+bundle install
+```
+
+### Run tests
+
+```bash
+bundle exec rspec
+```
+
+### Run rubocop
+
+```bash
+bundle exec rubocop
+```
