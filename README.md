@@ -1,5 +1,7 @@
 # Toy Robot Simulator
 
+[![CircleCI](https://circleci.com/gh/knlynda/toy_robot.svg?style=svg)](https://circleci.com/gh/knlynda/toy_robot)
+
 Please provide your source code, and any test code/data
 you using in developing your solution.
 
