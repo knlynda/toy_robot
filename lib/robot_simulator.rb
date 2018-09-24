@@ -1,0 +1,7 @@
+require 'robot_simulator/cli'
+require 'robot_simulator/position'
+require 'robot_simulator/robot'
+require 'robot_simulator/table'
+require 'robot_simulator/services/move_forward'
+require 'robot_simulator/services/rotate_left'
+require 'robot_simulator/services/rotate_right'
