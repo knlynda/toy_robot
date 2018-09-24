@@ -1,0 +1,10 @@
+Style/Documentation:
+  Enabled: false
+Naming/UncommunicativeMethodParamName:
+  Enabled: false
+Metrics/LineLength:
+  Enabled: true
+  Max: 120
+Metrics/BlockLength:
+  Exclude:
+    - spec/**/*.rb
